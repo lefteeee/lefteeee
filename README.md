@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lefteeee
+- 👋 Hi, I’m @leshkins
 - 👀 I’m interested in learning fullstack web developing
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on open-source web apps
@@ -15,7 +15,7 @@
 ---
 
 ## 📊 GitHub Stats
-![lefteeee GitHub stats](https://github-readme-stats.vercel.app/api?username=lefteeee&show_icons=true&theme=transparent)
+![leshkins GitHub stats](https://github-readme-stats.vercel.app/api?username=lefteeee&show_icons=true&theme=transparent)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
@@ -24,7 +24,7 @@
 
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/oleksii-pervov-b931b7340/)
-[![Twitter](https://img.shields.io/badge/-X-black?style=flat-square&logo=x)](https://x.com/lefteeee17)
+[![Twitter](https://img.shields.io/badge/-X-black?style=flat-square&logo=x)](https://x.com/leshkins_)
 <!---
 lefteeee/lefteeee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
