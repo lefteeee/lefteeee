@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on open-source web apps
 - 📫 How to reach me [Email](mailto:oleksiipervov17@gmail.com)
-- ⚡ Fun fact: I love Dean Blunt (?)
+- ⚡ Fun fact: I'm stupid
 
 ## 🛠️ Languages and Tools
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
@@ -15,7 +15,7 @@
 ---
 
 ## 📊 GitHub Stats
-![leshkins GitHub stats](https://github-readme-stats.vercel.app/api?username=lefteeee&show_icons=true&theme=transparent)
+![leshkins GitHub stats](https://github-readme-stats.vercel.app/api?username=leshkins&show_icons=true&theme=transparent)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
